@@ -1,0 +1,43 @@
+.comment {
+  width: 100%;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  margin: 30px 0;
+  padding: 5px;
+}
+
+.commentWrapper {
+  padding: 10px;
+}
+
+.commentUserImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.commentBox {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.commentUsername {
+  display: block;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.commentText p {
+  padding: 8px;
+  background-color: rgb(242, 242, 242);
+  border-radius: 20px;
+  margin-bottom: 0%;
+  font-size: 15px;
+}
+
+.commentDate {
+  font-size: 12px;
+}
