@@ -42,9 +42,4 @@ const postShema = mongoose.Schema(
   }
 )
 
-// tags: {
-//   type: String,
-//   required: true,
-// },
-
 module.exports = mongoose.model('Post', postShema)
