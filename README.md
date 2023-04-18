@@ -1,6 +1,6 @@
 # Socialite 
 
-Simple social network for developers
+Simple social network for developers who are looking for jobs or outsourcing projects.
 
 ## Available Scripts
 
