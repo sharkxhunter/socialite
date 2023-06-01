@@ -193,7 +193,6 @@ const getSingleUser = asyncHandler(async (req, res) => {
 
   res.status(200).json(user)
 })
-
 // @desc    Get user data
 // @route   GET /api/users/me
 // @access  Private
