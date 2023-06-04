@@ -39,5 +39,4 @@ const CommentForm = ({ postId }) => {
     </div>
   )
 }
-
 export default CommentForm
